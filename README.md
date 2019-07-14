@@ -3,4 +3,4 @@ This is the second project I've submitted to Udacity for the Android Basics Nano
 
 ## Screenshots
 
-<img src="./art/screen0.png" width="35%">
+<img src="./design/screen0.png" width="35%">
